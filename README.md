@@ -1,5 +1,5 @@
 # Ice Lake Patcher v0.1a
-Easy to use Program that uses System Environment Variables that mitigate Instruction Set incompatibilities introduced in Intel's Ice Lake micro architecture.
+Easy to use Program that uses System Environment Variables to mitigate Instruction Set incompatibilities introduced in Intel's Ice Lake micro architecture.
 
 _____________
 # What does this do?:
