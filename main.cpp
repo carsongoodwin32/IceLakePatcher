@@ -1,5 +1,6 @@
-// IceLakePatcher.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+
+//Written by Carson Goodwin on 7/12/2020
+//Contact for support at carson.goodwin32@gmail.com
 
 #include <iostream>
 #include <Windows.h>
@@ -14,8 +15,6 @@ void installPatch(bool inst) {
         ShellExecuteA(NULL, "open", "cmd.exe", "/c setx OPENSSL_ia32cap \"\" /M", NULL, SW_SHOWNORMAL);
     }
 }
-
-
 
 int main()
 {
