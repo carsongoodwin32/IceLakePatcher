@@ -19,10 +19,10 @@ _____________
 
 # Tested and working with:
 
-*Intel Core i7 1065G7: Unity 5.3.0f1-5.5.2f1
-*Intel Core i7 1065G7: Valorant (current release as of 7/12/2020)
-*Intel Core i7 1065G7: Blackwake (current release as of 7/12/2020)
+* Intel Core i7 1065G7: Unity 5.3.0f1-5.5.2f1
+* Intel Core i7 1065G7: Valorant (current release as of 7/12/2020)
+* Intel Core i7 1065G7: Blackwake (current release as of 7/12/2020)
 
-*Intel Core i5 1035G7: Valorant (current release as of 7/12/2020)
-*Intel Core i5 1035G7: Blackwake (current release as of 7/12/2020)
+* Intel Core i5 1035G7: Valorant (current release as of 7/12/2020)
+* Intel Core i5 1035G7: Blackwake (current release as of 7/12/2020)
 _____________
