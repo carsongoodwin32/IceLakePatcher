@@ -11,7 +11,11 @@ thus preventing the incompatibility from messing with things and causing crashes
 _____________
 # How to Use:
 
+(When Using Released Binaries)
+1. Run the included .bat file (right click, run as admin).
+2. Follow on screen steps to install
 
+(When Using Self-Compiled Version)
 1. Run an elevated command prompt (right click, run as admin).
 2. Run IceLakePatcher.exe in elevated command prompt.
 3. Follow on screen steps to install
